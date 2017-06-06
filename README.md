@@ -5,14 +5,14 @@
   
   This project is done with the following hardware:
   
-  -Arduino Uno
-  -JY-MCU Bluetooth
-  -3 meters NeoPixels lights strip
-  -5v/10amp DC supply
-  -1000uf capacitor
-  -220ohm resistor
-  -inline switch(full power off)
-  -Any Bluetooth serial sender 
-    -Galaxy s5 and s7 using BlueTooth Serial Controller app
-  -Cigar box 
-  -Potato**
+  -Arduino Uno /n
+  -JY-MCU Bluetooth/n
+  -3 meters NeoPixels lights strip /n
+  -5v/10amp DC supply /n
+  -1000uf capacitor /n
+  -220ohm resistor /n
+  -inline switch(full power off) /n
+  -Any Bluetooth serial sender /n
+    -Galaxy s5 and s7 using BlueTooth Serial Controller app /n
+  -Cigar box /n
+  -Potato** 
